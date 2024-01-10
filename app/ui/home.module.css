@@ -1,0 +1,8 @@
+/* triángulo con CSS modules */
+.shape{
+    height: 0;
+    width:0;
+    border-left: 3.5em solid transparent;
+    border-right: 3.5em solid transparent;
+    border-bottom: 5.25em solid aqua;
+}
